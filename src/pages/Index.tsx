@@ -85,7 +85,7 @@ const Index = () => {
     {
       name: "Carlos Mendes",
       rating: 5,
-      comment: "Chegou certinho aqui em Salvador, em menos de uma semana 😱 Já testei e tá aprovada demais! Potente, vem com duas baterias que duram bem. Valeu cada centavo!",
+      comment: "Comprei o macaco hidráulico elétrico e fiquei impressionado com a rapidez da entrega, chegou em apenas 3 dias aqui em Salvador. Já usei duas vezes e funcionou perfeitamente, muito prático e fácil de operar. Superou minhas expectativas!",
       image: "/lovable-uploads/9f9ddbc6-c875-4849-9410-2c9deb19bae5.png",
       location: "Salvador - BA",
       productImage: "/lovable-uploads/macacoeletricoreview1.jpg"
@@ -93,7 +93,7 @@ const Index = () => {
     {
       name: "José Santos",
       rating: 5,
-      comment: "Galera, chegou aqui em Campinas rapidinho, não deu nem 5 dias. Usei hoje pra montar uns móveis e foi de boa, bem forte a furadeira. Super recomendo!",
+      comment: "Veio bem embalado, a maleta é resistente e os acessórios são de ótima qualidade. Chegou antes do prazo e me surpreendeu a força do macaco, levanta o carro sem esforço. Recomendo a todos.",
       image: "/lovable-uploads/fae8ea5f-db4e-4d3d-ad22-700046f2baef.png",
       location: "Campinas - SP",
       productImage: "/lovable-uploads/macacoeletricoreview2.jpg"
@@ -101,7 +101,7 @@ const Index = () => {
     {
       name: "João Pereira",
       rating: 5,
-      comment: "Comprei meio desconfiado, mas chegou aqui em Fortaleza direitinho. A maleta veio completinha e a furadeira é top demais, tô usando direto aqui em casa.",
+      comment: "Confesso que comprei com um pouco de receio, mas me surpreendi. O produto é robusto, cumpre o que promete e ainda veio completo, igualzinho às fotos. A entrega foi rápida e sem nenhum problema. Gostei muito.",
       image: "/lovable-uploads/f9b7eb41-115e-4168-bf49-18f176e85250.png",
       location: "Fortaleza - CE",
       productImage: "/lovable-uploads/macacoeletricoreview3.jpg"
@@ -109,7 +109,7 @@ const Index = () => {
     {
       name: "Marcos Machado",
       rating: 5,
-      comment: "Chegou em BH ontem! Já botei pra jogo aqui numa reforma que tô fazendo e ó... surpreendeu, viu? Carrega rápido e tem força. Curti muito o custo-benefício!",
+      comment: "Realmente ultrapassou minhas expectativas. É um kit muito útil para quem viaja bastante, a maleta ajuda a manter tudo organizado e a potência do macaco é incrível. Chegou rápido e sem nenhum defeito.",
       image: "/lovable-uploads/3050a206-4579-44ff-98a6-ab8d93ec9242.png",
       location: "Belo Horizonte - MG",
       productImage: "/lovable-uploads/macacoeletricoreview4.jpg"
@@ -117,7 +117,7 @@ const Index = () => {
     {
       name: "Antônio Silva",
       rating: 5,
-      comment: "Recebi em Manaus em 6 dias, achei que ia demorar mais. A bichinha é boa, hein! Já usei pra furar parede, montar armário... vem com tudo certinho. Compra boa demais!",
+      comment: "Produto excelente e super prático, já testei o compressor e a chave de impacto, funcionam muito bem. Só demorou um dia a mais na entrega, mas nada que atrapalhasse. No geral, adorei e indico!",
       image: "/lovable-uploads/5aa0c82c-e71d-41b1-8e1a-23a526064b7f.png",
       location: "Manaus - AM",
       productImage: "/lovable-uploads/macacoeletricoreview5.jpg"
