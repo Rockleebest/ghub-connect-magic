@@ -13,7 +13,7 @@ export const ProductCarousel = ({ className }: ProductCarouselProps) => {
   const images = [
     {
       src: "/lovable-uploads/macacoeletrico1.jpg",
-      alt: "Macaco Hidráulico 5 Toneladas Elétrico 12V com acessórios completos"
+      alt: "Macaco Hidráulico Elétrico Com Maleta Com 4 Funções em 1 com acessórios completos"
     },
     {
       src: "/lovable-uploads/macacoeletrico2.jpg",

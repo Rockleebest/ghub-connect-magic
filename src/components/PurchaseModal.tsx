@@ -140,7 +140,7 @@ export const PurchaseModal = ({ isOpen, onClose }: PurchaseModalProps) => {
               />
               <div className="flex-1">
                 <h3 className="font-medium text-gray-900 mb-2 leading-tight">
-                  Macaco Hidráulico 5 Toneladas Elétrico 12V
+                  Macaco Hidráulico Elétrico Com Maleta Com 4 Funções em 1 Chave de Impacto, Compressor de Ar, Martelo de Segurança Luvas
                 </h3>
                 <div className="flex items-center gap-2 mb-2">
                   <span className="text-2xl font-bold text-orange-600">R$ 69,00</span>
