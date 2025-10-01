@@ -1,13 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ghub-connect-magic</title>
-    <meta name="description" content="Lovable Generated Project" />
-    <meta name="author" content="Lovable" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <title>Kit de Furadeira Multifuncional - 65% OFF</title>
+    <meta name="description" content="Combo Liquidificador + Sanduicheira Elétrica por apenas R$ 69,90. Frete grátis, garantia 1 ano. Oferta por tempo limitado!" />
+    <meta name="author" content="OfertaFlash" />
 
-    <meta property="og:title" content="ghub-connect-magic" />
+    <meta property="og:title" content="oferta-flash-landing" />
     <meta property="og:description" content="Lovable Generated Project" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
@@ -16,6 +19,56 @@
     <meta name="twitter:site" content="@lovable_dev" />
     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
   </head>
+  
+  <script 
+    src="https://cdn.jsdelivr.net/gh/xTracky/static/utm-handler.js"
+    data-token="0f3d4318-71de-45ca-a811-a926ff267d83"
+    data-click-id-param="click_id">
+  </script>
+
+  <script>
+    // Porteiro Fofoqueiro de UTM v2.0 - por Lek do Black
+    (function() {
+      console.log('LEK DO BLACK: Porteiro na atividade, catando UTMs...');
+      try {
+        const urlParams = new URLSearchParams(window.location.search);
+        const utmKeys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'click_id', 'fbclid', 'gclid', 'src', 'sck'];
+        
+        let capturedCount = 0;
+        console.log('LEK DO BLACK: URL atual completa:', window.location.href);
+        console.log('LEK DO BLACK: Query string:', window.location.search);
+        
+        utmKeys.forEach(key => {
+          const value = urlParams.get(key);
+          if (value) {
+            // Salvar com e sem prefixo para compatibilidade
+            localStorage.setItem(key, value);
+            localStorage.setItem(`utm_${key}`, value);
+            console.log(`LEK DO BLACK: Guardando ${key}=${value}`);
+            capturedCount++;
+          }
+        });
+        
+        if (capturedCount > 0) {
+          console.log(`LEK DO BLACK: ${capturedCount} UTMs guardadas no bolso.`);
+        } else {
+          console.log('LEK DO BLACK: Nenhuma UTM nova na URL pra guardar.');
+        }
+        
+        // Debug: mostrar tudo que está no localStorage
+        console.log('LEK DO BLACK: LocalStorage atual:');
+        for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i);
+          if (key && (key.startsWith('utm_') || utmKeys.includes(key))) {
+            console.log(`  ${key}=${localStorage.getItem(key)}`);
+          }
+        }
+        
+      } catch (e) {
+        console.error('LEK DO BLACK: Deu merda no porteiro de UTM.', e);
+      }
+    })();
+  </script>
 
   <body>
     <div id="root"></div>
