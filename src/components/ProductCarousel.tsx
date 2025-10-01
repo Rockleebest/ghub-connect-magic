@@ -12,24 +12,24 @@ export const ProductCarousel = ({ className }: ProductCarouselProps) => {
 
   const images = [
     {
-      src: "/lovable-uploads/8e1828f4-ead8-4ceb-944e-bc1b36295c24.png",
-      alt: "Kit de Furadeira Multifuncional 21V com acessórios"
+      src: "/lovable-uploads/macacoeletrico1.jpg",
+      alt: "Macaco Hidráulico 5 Toneladas Elétrico 12V com acessórios completos"
     },
     {
-      src: "/lovable-uploads/3158d6a9-a80e-4bc7-9145-d9812995017b.png",
-      alt: "Bateria de 21V alta potência e duração"
+      src: "/lovable-uploads/macacoeletrico2.jpg",
+      alt: "Kit completo do Macaco Hidráulico Elétrico com ferramentas"
     },
     {
-      src: "/lovable-uploads/89fe3f35-518a-4cbc-9174-00b1db7308a1.png",
-      alt: "Fácil de usar - uso profissional e doméstico"
+      src: "/lovable-uploads/macacoeletrico3.jpg",
+      alt: "Macaco Hidráulico 5 Toneladas com bomba de ar integrada"
     },
     {
-      src: "/lovable-uploads/eaa4882e-9ba2-47ac-9def-af5a323ff3d4.png",
-      alt: "Possui 2 velocidades com LED para áreas escuras"
+      src: "/lovable-uploads/macacoeletrico4.jpg",
+      alt: "Design ergonômico do Macaco Hidráulico 12V"
     },
     {
-      src: "/lovable-uploads/8368b0d5-b5bf-4c7b-9fdd-8b125f5968d3.png",
-      alt: "Leve e resistente com 22 configurações de torque"
+      src: "/lovable-uploads/macacoeletrico5.jpg",
+      alt: "Macaco Hidráulico Elétrico com adaptadores inclusos"
     }
   ];
 

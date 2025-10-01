@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from "@/components/ui/dialog";
-const comboProdutosPrincipal = '/lovable-uploads/8e1828f4-ead8-4ceb-944e-bc1b36295c24.png';
+const comboProdutosPrincipal = '/lovable-uploads/macacoeletrico1.jpg';
 
 interface PurchaseModalProps {
   isOpen: boolean;
@@ -135,12 +135,12 @@ export const PurchaseModal = ({ isOpen, onClose }: PurchaseModalProps) => {
             <div className="flex gap-4 mb-6">
               <img 
                 src={comboProdutosPrincipal} 
-                alt="Kit de Furadeira Multifuncional 21V com acessórios" 
+                alt="Macaco Hidráulico 5 Toneladas Elétrico 12V" 
                 className="w-20 h-20 object-cover rounded-lg"
               />
               <div className="flex-1">
                 <h3 className="font-medium text-gray-900 mb-2 leading-tight">
-                  Kit de Furadeira Multifuncional 21V Recarregável com 2 Baterias Incluídas
+                  Macaco Hidráulico 5 Toneladas Elétrico 12V
                 </h3>
                 <div className="flex items-center gap-2 mb-2">
                   <span className="text-2xl font-bold text-orange-600">R$ 69,00</span>

@@ -185,7 +185,7 @@ const Index = () => {
             <p className="text-sm font-medium text-pink-700 text-center">Desconto exclusivo na primeira Compra</p>
           </div>
           <h1 className="text-xl font-bold text-gray-900 mb-3 leading-tight">
-            Kit de Furadeira Multifuncional 21V Recarregável com 2 Baterias Incluídas
+            Macaco Hidráulico 5 Toneladas Elétrico 12V
           </h1>
 
         {/* Rating */}
